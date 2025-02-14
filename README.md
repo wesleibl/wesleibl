@@ -1,15 +1,13 @@
 ### Hello! 👋
 
 - 🔭 I’m currently working on Kinghost as Development assistant
-- 🌱 I’m currently learning about GIT, JavaScript, HTML, CSS, Node.JS, React.JS, SQL, PHP
-- 🤔 I’m looking for help with Node.JS, React.JS, SQL, PHP
-- 💬 Ask me about Web hosting, HTML, CSS, JavaScript and React.JS
+- 💬 Ask me about Web hosting, JavaScript, React, React Native
 - 📫 How to reach me: wesleibl@gmail.com
 
 ### Connect with me:
 
-[<img align="left" alt="andlipe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="andlipe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Weslei | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Weslei | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
