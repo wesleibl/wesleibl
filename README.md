@@ -1,6 +1,6 @@
 # Olá, eu sou o Weslei 👋
 
-Sou desenvolvedor e atualmente estou focado em aprender **React**, **Node.js** e outras tecnologias. Abaixo estão algumas das tecnologias que utilizo nos meus projetos.
+Sou desenvolvedor Fullstack. Abaixo estão algumas das tecnologias que utilizo nos meus projetos.
 
 ## Tecnologias que uso
 
